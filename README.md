@@ -1,7 +1,7 @@
 👋🏾 Hello there! I'm FlimixST
 =========================================
 
-💻 Developer
+💻 Developer from Moldova
 
 🍳 Skills and Technologies
 --------------------------
@@ -19,5 +19,7 @@
 ---------------
 
 *   Telegram: [t.me/flimixofficial](https://t.me/flimixofficial/)
+*   Vkontakte: [vk.com/flimixofficial](vk.com/flimixofficial)
 *   Discord: [flimixofficial](https://discord.com/users/1120534568018116669)
+*   Site: [flimixst.dev](https://flimixst.dev)
 *   Email: [me@flimixst.dev](mailto:me@flimixst.dev)
