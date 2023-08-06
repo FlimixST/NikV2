@@ -1,4 +1,4 @@
-👋🏾 Hello there! I'm FlimixST
+👋 Hello there! I'm FlimixST
 =========================================
 
 💻 Developer from Moldova
