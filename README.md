@@ -7,7 +7,7 @@
 --------------------------
 
 *   **Languages**: Java, Python, NodeJS, Electron/Vue, HTML/PHP
-*   **Tools**: Git, CentOS, Ubuntu, PyCharm, PhpStorm Intelij IDEA
+*   **Tools**: Git, CentOS, Ubuntu, PyCharm, PhpStorm Intelij IDEA, Putty, WinSCP, Sublime Text
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F70000&random=false&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://flimixst.dev)
 ---------------
