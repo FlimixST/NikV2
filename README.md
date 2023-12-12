@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=411FF7&random=false&width=435&lines=%F0%9F%8D%B3+Skills+and+Technologies)](https://flimixst.dev)
 --------------------------
 
-*   **Languages**: Java, Html
-*   **Tools**: Git, Ubuntu, CentOS, Intelij IDEA
+*   **Languages**: Java, Python, NodeJS, Electron/Vue, HTML/PHP
+*   **Tools**: Git, CentOS, Ubuntu, PyCharm, PhpStorm Intelij IDEA
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F70000&random=false&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://flimixst.dev)
 ---------------
