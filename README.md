@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=411FF7&random=false&width=435&lines=%F0%9F%8D%B3+Skills+and+Technologies)](https://flimixst.dev)
 --------------------------
 
-*   **Languages**: Java, Python, NodeJS, Electron/Vue, HTML/PHP
-*   **Tools**: Git, CentOS, Fedora Workstation, Ubuntu, PyCharm, PhpStorm, Intelij IDEA, Putty, WinSCP, Sublime Text
+*   **Languages**: Java, Python, NodeJS, HTML/PHP
+*   **Tools**: Git, Fedora Workstation, Ubuntu, Intelij IDEA, Putty, WinSCP, Sublime Text
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=F70000&random=false&width=435&lines=%F0%9F%93%88+GitHub+Stats)](https://flimixst.dev)
 ---------------
