@@ -14,7 +14,7 @@
 
 [![FlimixST's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlimixST&show_icons=true&theme=jolly)](https://flimixst.dev)
 [![GitHub Streak](https://streak-stats.demolab.com?user=flimixst&theme=catppuccin-macchiato)](https://flimixst.dev)
-[![Flag Counter](https://s01.flagcounter.com/count/81ai/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_3/labels_1/pageviews_0/flags_0/percent_0/)
+[![Flag Counter](https://s01.flagcounter.com/count/81ai/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_3/labels_1/pageviews_0/flags_0/percent_0/)](https://flimixst.dev)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=3115F7&random=false&width=435&lines=%F0%9F%93%AB+Get+in+Touch)](https://flimixst.dev)
 ---------------
